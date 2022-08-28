@@ -1,3 +1,4 @@
 test.py
 outputed.csv
 .~*
+.pytest_cache 

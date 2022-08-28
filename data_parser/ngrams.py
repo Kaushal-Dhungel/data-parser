@@ -8,5 +8,3 @@ def calculate_ngrams(text,n):
         temp = ' '.join([str(elem) for elem in words[i:i+n]])
         result.append(temp)
     return result
-
-print(calculate_ngrams(text,n=5))
